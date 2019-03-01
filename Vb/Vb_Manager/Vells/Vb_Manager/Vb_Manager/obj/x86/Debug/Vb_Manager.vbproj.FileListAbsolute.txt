@@ -1,0 +1,243 @@
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.IA1Ex1.resources
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+L:\_DOCS\_1617\Projecte Arduino\3003 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+C:\Users\Carlos\Desktop\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+L:\_DOCS\_1617\Projecte Arduino\0404 projecteArduino- singlemsg\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+L:\_DOCS\_1617\Projecte Arduino\0604 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.arduino.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\0406 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.MotorControl.resources
+C:\Users\Carlos\Desktop\0407 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0407 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0407 projecteArduino- changed\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0407 projecteArduino- changed - copia\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0407 projecteArduino- changed - copia\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0407 projecteArduino- changed - copia\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0417 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+H:\Projecte Arduino\0418 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.ManualCMD.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+L:\_DOCS\_1617\Projecte Arduino\0420 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.ManualCMD.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+C:\Users\Carlos\Desktop\0423 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\0424 projecteArduino - copia\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0424 projecteArduino - copia\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0424 projecteArduino - copia\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.ManualCMD.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+C:\Users\Carlos\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+I:\Projecte Arduino\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+I:\Projecte Arduino\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+I:\Projecte Arduino\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.ManualCMD.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+C:\Users\carlos.salinas.ELEN\Desktop\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+G:\S2D\M3-M6\Arduino\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+G:\S2D\M3-M6\Arduino\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+G:\S2D\M3-M6\Arduino\0425 projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.ManualCMD.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+G:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.exe
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.pdb
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\bin\Debug\Vb_Manager.xml
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.ManualCMD.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.OpenConnect.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.CloseConnect.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.GraphData.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.LoadFile.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.mainMenu.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Resources.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SaveFile.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.SensorSetup.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.showData.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.Simu.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.vbproj.GenerateResource.Cache
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.MotorControl.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.AwningControl.resources
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vells\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.exe
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vells\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.xml
+F:\S2D\M3-M6\Arduino\Carlos projecteArduino\Vb\Vb_Manager\Vells\Vb_Manager\Vb_Manager\obj\x86\Debug\Vb_Manager.pdb
